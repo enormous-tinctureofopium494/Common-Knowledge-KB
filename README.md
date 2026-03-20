@@ -115,7 +115,7 @@ pgvector must be installed at the OS/package level first:
 
 ```bash
 # Ubuntu / Debian
-sudo apt install postgresql-15-pgvector
+sudo apt install postgresql-16-pgvector
 
 # macOS via Homebrew
 brew install pgvector
