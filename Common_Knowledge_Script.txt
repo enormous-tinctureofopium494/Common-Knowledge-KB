@@ -1,0 +1,31 @@
+
+
+#Common Knowledge Script
+
+sudo systemctl start postgresql
+
+sudo -u postgres createdb common_kb
+
+sudo -u postgres psql -d common_kb -f common_knowledge_schema-v0.3.sql
+sudo -u postgres psql -d common_kb -f common_predicates_kernel-v0.3.sql
+sudo -u postgres psql -d common_kb -f common_objects_kernel-v0.3.sql
+
+#Run examples
+sudo -u postgres psql -d common_kb -f common_examples.sql
+
+#Interactive examples
+sudo -u postgres psql common_kb
+
+#Optional create user
+sudo -u postgres createuser -s dmcneill
+
+#Then you can run without sudo
+psql -d common_kb
+
+#Delete database after testing
+sudo -u postgres psql -c "DROP DATABASE IF EXISTS common_kb;"
+
+#Stop postgres
+sudo systemctl stop postgresql
+
+
