@@ -1,4 +1,4 @@
-**# Common Knowledge KB**
+# Common Knowledge KB
 
 A foundation schema for a **probabilistic, temporal, source-aware** knowledge base  
 designed to support Bayesian and logical reasoning over common knowledge.
